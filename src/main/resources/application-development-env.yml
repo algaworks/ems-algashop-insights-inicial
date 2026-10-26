@@ -2,6 +2,6 @@ server.port: 8086
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/insights
+    url: jdbc:postgresql://localhost:5433/insights
     username: postgres
     password: postgres
